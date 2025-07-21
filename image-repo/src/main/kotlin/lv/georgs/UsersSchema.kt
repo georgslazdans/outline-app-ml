@@ -1,4 +1,4 @@
-package georgs.lv
+package lv.georgs.lv.georgs
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.serialization.Serializable

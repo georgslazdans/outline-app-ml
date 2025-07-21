@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.kotlin.plugin.serialization)
 }
 
-group = "georgs.lv"
+group = "lv.georgs"
 version = "0.0.1"
 
 application {
