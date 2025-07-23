@@ -1,9 +1,8 @@
-package lv.georgs
+package lv.georgs.image
 
 import io.ktor.client.request.*
 import io.ktor.http.*
 import io.ktor.server.testing.*
-import lv.georgs.lv.georgs.module
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

@@ -1,4 +1,4 @@
-package lv.georgs.lv.georgs
+package lv.georgs.image
 
 import io.ktor.server.application.*
 import io.ktor.server.response.*

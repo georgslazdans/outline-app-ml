@@ -1,6 +1,7 @@
-package lv.georgs.lv.georgs
+package lv.georgs.image
 
 import io.ktor.server.application.*
+import lv.georgs.image.upload.configureImageUpload
 
 fun main(args: Array<String>) {
     io.ktor.server.netty.EngineMain.main(args)
@@ -13,4 +14,5 @@ fun Application.module() {
     configureDatabases()
     configureAdministration()
     configureRouting()
+    configureImageUpload()
 }

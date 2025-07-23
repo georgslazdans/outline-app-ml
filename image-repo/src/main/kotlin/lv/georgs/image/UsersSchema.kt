@@ -1,4 +1,4 @@
-package lv.georgs.lv.georgs
+package lv.georgs.image
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.serialization.Serializable

@@ -1,4 +1,4 @@
-package lv.georgs.lv.georgs
+package lv.georgs.image
 
 import io.github.flaxoos.ktor.server.plugins.ratelimiter.*
 import io.github.flaxoos.ktor.server.plugins.ratelimiter.implementations.*

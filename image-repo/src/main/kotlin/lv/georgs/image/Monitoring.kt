@@ -1,4 +1,4 @@
-package lv.georgs.lv.georgs
+package lv.georgs.image
 
 import com.codahale.metrics.*
 import io.ktor.server.application.*

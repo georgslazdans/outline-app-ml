@@ -4,3 +4,8 @@ ktor:
             - lv.georgs.ApplicationKt.module
     deployment:
         port: 8080
+
+s3:
+    url: $S3_URL
+    access-key-id: "$S3_ACCESS_KEY_ID:minioadmin"
+    secret-access-key: "$S3_SECRET_ACCESS_KEY:minioadmin"
